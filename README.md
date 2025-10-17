@@ -4,7 +4,7 @@ Project 1 of OpenCV University Course: Deep Learning with PyTorch
 Task: 3-class Image Classifier CNN
 
 
-# Simple Image Claffifier
+Simple Image Classifier
 
 > OpenCV + PyTorch. Classifies 3 classes: cats, dogs, pandas.
 
